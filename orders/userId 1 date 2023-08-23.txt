@@ -1,0 +1,4 @@
+User admin123@gmail.com
+Movie sessions MovieSession movie title Titanic, description string, cinema hall description 3D cinema hall
+
+Time 2023-08-23T11:54:52.065610100
